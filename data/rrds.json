@@ -1,0 +1,17 @@
+[
+  {
+    "courseProgress": "进行至第3周，共18周",
+    "courseEvaluationNum": 280,
+    "courseRating": 4.9,
+    "courseLink": "https://www.icourse163.org/course/PKU-1206307812",
+    "studentNumber": 1898,
+    "university": "北京大学",
+    "openingTime": "2022年03月02日 ~ 2022年06月30日",
+    "teacher1": "陈斌",
+    "hourArrangement": "3-5小时每周",
+    "courseDescription": "本课基于主讲教师在北京大学讲授数据结构与算法课（Python版）的多年教学实践经验，面向具有Python语言程序设计基础的大学生和社会公众，介绍常见的基本数据结构以及相关经典算法，强调问题-数据-算法的抽象过程，关注数据结构与算法的时间空间效率，培养学生编写出高效程序，具备解决问题的综合能力。",
+    "courseLogo": "http://edu-image.nosdn.127.net/B427608ACA38886FCEC95F835AA81A2E.jpg?imageView&thumbnail=510y288&quality=100",
+    "name": "数据结构与算法Python版",
+    "id": "PKU1206307812"
+  }
+]

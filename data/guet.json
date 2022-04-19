@@ -1,0 +1,160 @@
+{
+  "nodes": [
+    {
+      "courseProgress": "进行至第3周，共14周",
+      "guojiajingpin": "国家精品",
+      "courseEvaluationNum": 796,
+      "courseRating": 4.8,
+      "courseLink": "https://www.icourse163.org/course/GLIET-1001663006",
+      "studentNumber": 319,
+      "university": "桂林电子科技大学",
+      "openingTime": "2022年03月02日 ~ 2022年06月06日",
+      "teacher1": "董荣胜",
+      "hourArrangement": "4",
+      "courseDescription": "本课程是国家精品在线开放课程,课程注重计算思维的核心概念，以及核心概念之间的逻辑关系,并借助大量的典型案例,为各学科与计算的交叉融合在思维层面上搭建一座沟通的桥梁。",
+      "courseLogo": "http://edu-image.nosdn.127.net/43F5F8102D3133EDAC08D9D55805C903.jpg?imageView&thumbnail=510y288&quality=100",
+      "teacher3": "汪华登",
+      "teacher2": "李凤英",
+      "name": "计算思维的结构",
+      "id": "GLIET1001663006",
+      "class": "Course"
+    },
+    {
+      "universityLogo": "https://edu-image.nosdn.127.net/1B0B8F8E780DF22CFB5988095B61DDC1.png?imageView&thumbnail=220y80&quality=100",
+      "name": "桂林电子科技大学",
+      "id": "GLIET",
+      "universityMoocLink": "https://www.icourse163.org/university/GLIET#/c",
+      "class": "University",
+      "universityIntroduction": "桂林电子科技大学座落在广西壮族自治区桂林市，是工业和信息化部与广西壮族自治区共建高校、广西壮族自治区重点建设高校。中国绕月探测工程总设计师、国家最高科学技术奖获得者、中国科学院孙家栋院士为学校名誉校长。 学校始建于1960年，1980年经国务院批准成立桂林电子工业学院，2006年更名为桂林电子科技大学。学校先后隶属于第四机械工业部、电子工业部、机械电子工业部、中国电子工业总公司、信息产业部。2000年管理体制转为中央与地方共建、以地方管理为主。"
+    },
+    {
+      "name": "国家精品",
+      "class": "Category",
+      "id": "国家精品"
+    },
+    {
+      "name": "计算机",
+      "class": "Category",
+      "id": "计算机"
+    },
+    {
+      "courseProgress": "进行至第3周，共14周",
+      "guojiajingpin": "国家精品",
+      "courseEvaluationNum": 539,
+      "courseRating": 4.9,
+      "courseLink": "https://www.icourse163.org/course/GLIET-1002091005",
+      "studentNumber": 1098,
+      "university": "桂林电子科技大学",
+      "openingTime": "2022年03月02日 ~ 2022年06月06日",
+      "teacher1": "董荣胜",
+      "hourArrangement": "4",
+      "courseDescription": "本课程（“计算机科学导论”MOOC课程）是首批国家级线上一流课程，本课程将课程的结构建立在计算学科认知模型的基础上，并以计算机科学的内容为背景，借助大量案例，在学科思想与方法层面，对学生认知计算学科进行导引，着力提高学生在复杂问题求解，系统设计，以及人类行为理解方面的计算思维能力。",
+      "courseLogo": "http://edu-image.nosdn.127.net/C76762E2463290EA1B19DD2EA6ADF8A6.jpg?imageView&thumbnail=510y288&quality=100",
+      "teacher2": "李凤英",
+      "name": "计算机科学导论",
+      "id": "GLIET1002091005",
+      "class": "Course"
+    },
+    {
+      "courseProgress": "进行至第5周，共16周",
+      "courseEvaluationNum": 62,
+      "courseRating": 4.8,
+      "courseLink": "https://www.icourse163.org/course/GLIET-1205728807",
+      "studentNumber": 268,
+      "university": "桂林电子科技大学",
+      "openingTime": "2022年02月21日 ~ 2022年06月12日",
+      "teacher1": "周娅",
+      "hourArrangement": "4",
+      "courseDescription": "本课程以微课视频的形式进行讲解，希望你利用零碎时间完成视频观看和测试；通过算法演示理解数据结构的基本操作；通过代码实现视频了解实现时的细节；通过每种数据结构的应用视频理解该数据结构的应用场合；通过单元测试进行概念原理算法检验；通过在线判题系统检验你的编码动手能力，希望你有所收获。",
+      "courseLogo": "http://edu-image.nosdn.127.net/0D6D22F00FBD86284D240FC3BD4BE5D2.png?imageView&thumbnail=510y288&quality=100",
+      "teacher3": "王宇英",
+      "teacher2": "张敬伟",
+      "name": "数据结构与算法",
+      "id": "GLIET1205728807",
+      "class": "Course"
+    },
+    {
+      "courseProgress": "进行至第2周，共11周",
+      "courseEvaluationNum": 3,
+      "courseRating": 0.0,
+      "courseLink": "https://www.icourse163.org/course/GLIET-1464062163",
+      "studentNumber": 222,
+      "university": "桂林电子科技大学",
+      "openingTime": "2022年03月10日 ~ 2022年05月20日",
+      "teacher1": "向定汉",
+      "hourArrangement": "3-5小时每周",
+      "courseDescription": "材料、能源、信息——人类社会发展的三大支柱，其中材料以金属材料应用最广泛。本课程通过学习固态相变、珠光体转变、马氏体转变、贝氏体转变、回火转变等基本原理，应用于改善钢铁材料、铸铁、有色金属等机械零部件的性能，提质增寿。培养从事金属材料和零部件热处理工艺开发、力学性能检测及金相分析、生产管理的高级技术应用型专门人才的专业化课程。",
+      "courseLogo": "http://mooc-image.nosdn.127.net/b20628ce47274c0bbd6a09e860fadea4.png",
+      "name": "金属材料及热处理",
+      "id": "GLIET1464062163",
+      "class": "Course"
+    },
+    {
+      "name": "工学",
+      "class": "Category",
+      "id": "工学"
+    }
+  ],
+  "links": [
+    {
+      "relation": "开设",
+      "target": "GLIET1001663006",
+      "value": "3",
+      "source": "GLIET"
+    },
+    {
+      "relation": "属于",
+      "target": "国家精品",
+      "value": "3",
+      "source": "GLIET1001663006"
+    },
+    {
+      "relation": "属于",
+      "target": "计算机",
+      "value": "3",
+      "source": "GLIET1001663006"
+    },
+    {
+      "relation": "开设",
+      "target": "GLIET1002091005",
+      "value": "3",
+      "source": "GLIET"
+    },
+    {
+      "relation": "属于",
+      "target": "国家精品",
+      "value": "3",
+      "source": "GLIET1002091005"
+    },
+    {
+      "relation": "属于",
+      "target": "计算机",
+      "value": "3",
+      "source": "GLIET1002091005"
+    },
+    {
+      "relation": "开设",
+      "target": "GLIET1205728807",
+      "value": "3",
+      "source": "GLIET"
+    },
+    {
+      "relation": "属于",
+      "target": "计算机",
+      "value": "3",
+      "source": "GLIET1205728807"
+    },
+    {
+      "relation": "开设",
+      "target": "GLIET1464062163",
+      "value": "3",
+      "source": "GLIET"
+    },
+    {
+      "relation": "属于",
+      "target": "工学",
+      "value": "3",
+      "source": "GLIET1464062163"
+    }
+  ]
+}

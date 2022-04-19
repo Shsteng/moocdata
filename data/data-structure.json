@@ -1,0 +1,1055 @@
+{
+  "nodes": [
+    {
+      "courseProgress": "进行至第3周，共18周",
+      "courseEvaluationNum": 280,
+      "courseRating": 4.9,
+      "courseLink": "https://www.icourse163.org/course/PKU-1206307812",
+      "studentNumber": 1898,
+      "university": "北京大学",
+      "openingTime": "2022年03月02日 ~ 2022年06月30日",
+      "teacher1": "陈斌",
+      "hourArrangement": "3-5小时每周",
+      "courseDescription": "本课基于主讲教师在北京大学讲授数据结构与算法课（Python版）的多年教学实践经验，面向具有Python语言程序设计基础的大学生和社会公众，介绍常见的基本数据结构以及相关经典算法，强调问题-数据-算法的抽象过程，关注数据结构与算法的时间空间效率，培养学生编写出高效程序，具备解决问题的综合能力。",
+      "courseLogo": "http://edu-image.nosdn.127.net/B427608ACA38886FCEC95F835AA81A2E.jpg?imageView&thumbnail=510y288&quality=100",
+      "name": "数据结构与算法Python版",
+      "id": "PKU1206307812",
+      "class": "Course"
+    },
+    {
+      "universityLogo": "https://edu-image.nosdn.127.net/370D4ADD98FE6993DE1970DB0060ACCA.png?imageView&thumbnail=220y80&quality=100",
+      "name": "北京大学",
+      "id": "PKU",
+      "universityMoocLink": "https://www.icourse163.org/university/PKU#/c",
+      "class": "University",
+      "universityIntroduction": "北京大学创办于1898年，初名京师大学堂，是中国第一所国立综合性大学，也是当时中国最高教育行政机关。辛亥革命后，于1912年改为现名。 学校为教育部直属全国重点大学，国家“211工程”、“985工程”建设大学、C9联盟，以及东亚研究型大学协会、国际研究型大学联盟、环太平洋大学联盟、东亚四大学论坛的重要成员。"
+    },
+    {
+      "name": "计算机",
+      "class": "Category",
+      "id": "计算机"
+    },
+    {
+      "courseProgress": "进行至第4周，共20周",
+      "guojiajingpin": "国家精品",
+      "courseEvaluationNum": 309,
+      "courseRating": 4.3,
+      "courseLink": "https://www.icourse163.org/course/PKU-1002534001",
+      "studentNumber": 3421,
+      "university": "北京大学",
+      "openingTime": "2022年03月01日 ~ 2022年07月17日",
+      "teacher1": "张铭",
+      "hourArrangement": "3-5小时每周",
+      "courseDescription": "本课程介绍基本数据结构以及相关的经典算法，强调问题-数据-算法的抽象过程，关注数据结构与算法的时间空间效率，培养学生编写出高效程序从而解决实际问题的综合能力。本课程是北京大学信息学院平台课，也是北京大学很多理工院系的必修课程，被评为国家级精品课程、国家级精品资源共享课程和国家级一流本科课程。",
+      "courseLogo": "http://edu-image.nosdn.127.net/D9F111785E1F6653AF2DA098694FA4B2.png?imageView&thumbnail=510y288&quality=100",
+      "teacher3": "赵海燕",
+      "teacher2": "王腾蛟",
+      "name": "数据结构与算法",
+      "id": "PKU1002534001",
+      "class": "Course"
+    },
+    {
+      "name": "国家精品",
+      "class": "Category",
+      "id": "国家精品"
+    },
+    {
+      "courseProgress": "进行至第4周，共13周",
+      "guojiajingpin": "国家精品",
+      "courseEvaluationNum": 2295,
+      "courseRating": 4.9,
+      "courseLink": "https://www.icourse163.org/course/ZJU-93001",
+      "studentNumber": 42424,
+      "university": "浙江大学",
+      "openingTime": "2022年03月01日 ~ 2022年05月30日",
+      "teacher1": "陈越",
+      "hourArrangement": "3月8日",
+      "courseDescription": "学了一门编程语言不知道能干啥？来学数据结构就对啦！ 学会编程相当于会砌猪圈的泥瓦匠，学完数据结构就会盖个双层小楼啦~ 同时还可以一窥构筑摩天大厦的奇门武功！ 欢迎勤奋的小白活泼乱入！十周修炼，得入门径，一代大侠，从此出发 —— 快来吧~ ^_^",
+      "courseLogo": "http://edu-image.nosdn.127.net/C4C10C0C27254ED77925331F19F83FED.jpg?imageView&thumbnail=510y288&quality=100",
+      "teacher2": "何钦铭",
+      "name": "数据结构",
+      "id": "ZJU93001",
+      "class": "Course"
+    },
+    {
+      "universityLogo": "https://edu-image.nosdn.127.net/3b3416717e8444e78fc4f54b543ec7c1.png",
+      "name": "浙江大学",
+      "id": "ZJU",
+      "universityMoocLink": "https://www.icourse163.org/university/ZJU#/c",
+      "class": "University",
+      "universityIntroduction": "浙江大学（Zhejiang University）简称“浙大”，前身是1897年创建的求是书院，是中国人自己最早创办的现代高等学府之一。1928年更名为国立浙江大学。中华民国时期，浙江大学在竺可桢老校长的带领下，成长为中国最顶尖的大学之一，被英国著名学者李约瑟誉为“东方剑桥”。浙大是中国首批7所“211工程”大学，首批9所“985工程”重点建设的全国重点大学，中国大学C9联盟、世界大学联盟、环太平洋大学联盟的成员，是联合国教科文组织全球大学创新联盟亚太中心牵头单位，是中国著名顶尖学府之一。"
+    },
+    {
+      "courseProgress": "当前开课已结束",
+      "courseEvaluationNum": 124,
+      "courseRating": 4.1,
+      "courseLink": "https://www.icourse163.org/course/WHU-1001539003",
+      "studentNumber": 193966,
+      "university": "武汉大学",
+      "openingTime": "2017年03月20日 ~ 2017年07月07日",
+      "teacher1": "李春葆",
+      "hourArrangement": "3-5小时每周",
+      "courseDescription": "程序=数据结构+算法，利用数据结构的知识设计“好”的算法是程序猿的基本要求，许多IT企业的面试和笔试都广泛地涉及各种各样的数据结构。通过数据结构课程的学习，充分理解这些数据结构，并掌握数据结构的数据组织和数据处理方法，你也会成为编程“牛人”。",
+      "courseLogo": "http://edu-image.nosdn.127.net/0BBFB342EBF1A91D80C536B00903AF59.jpg?imageView&thumbnail=426y240&quality=100",
+      "name": "数据结构",
+      "id": "WHU1001539003",
+      "class": "Course"
+    },
+    {
+      "universityLogo": "https://edu-image.nosdn.127.net/DD5AFE55B4268D64508A58AE479CCE95.png?imageView&thumbnail=220y80&quality=100",
+      "name": "武汉大学",
+      "id": "WHU",
+      "universityMoocLink": "https://www.icourse163.org/university/WHU#/c",
+      "class": "University",
+      "universityIntroduction": "武汉大学是国家教育部直属重点综合性大学，是国家“985工程”和“211工程”重点建设高校。武汉大学溯源于1893年清末湖广总督张之洞奏请清政府创办的自强学堂，历经传承演变，1928年定名为国立武汉大学，是近代中国第一批国立大学。1946年，学校已形成文、法、理、工、农、医 6大学院并驾齐驱的办学格局。2000年，武汉大学与武汉水利电力大学、武汉测绘科技大学、湖北医科大学合并组建新的武汉大学，揭开了学校改革发展的崭新一页。合校十多年来，学校综合实力和核心竞争力不断提升。"
+    },
+    {
+      "courseProgress": "进行至第4周，共16周",
+      "courseEvaluationNum": 23,
+      "courseRating": 4.1,
+      "courseLink": "https://www.icourse163.org/course/DUT-1205981804",
+      "studentNumber": 179,
+      "university": "大连理工大学",
+      "openingTime": "2022年03月01日 ~ 2022年06月19日",
+      "teacher1": "于红",
+      "hourArrangement": "3-5小时每周",
+      "courseDescription": "《数据结构与算法》是计算机等相关专业的核心课程，主要讨论抽象数据关系和算法在计算机中的表示与实现，具体包括线性表、栈、队列、树、图、查找和排序。通过对该课程，学习者可以更加合理有效地组织、存储和处理数据，设计正确有效的算法；并能充分提升抽象思维、创造力和逻辑思维能力。",
+      "courseLogo": "http://edu-image.nosdn.127.net/50754B4E0618E2D983CD1E1B4863C75D.jpg?imageView&thumbnail=510y288&quality=100",
+      "name": "数据结构与算法",
+      "id": "DUT1205981804",
+      "class": "Course"
+    },
+    {
+      "universityLogo": "https://img-ph-mirror.nosdn.127.net/Ij8QrPCgSZZ_GECkmQigNA==/6608899412259397493.jpg",
+      "name": "大连理工大学",
+      "id": "DUT",
+      "universityMoocLink": "https://www.icourse163.org/university/DUT#/c",
+      "class": "University",
+      "universityIntroduction": "大连理工大学是教育部直属全国重点大学，也是国家“211工程”和“985工程”重点建设高校。学校以培养精英人才、促进科技进步、传承优秀文化、引领社会风尚为宗旨，秉承“海纳百川、自强不息、厚德笃学、知行合一”的精神，致力于创造、发现、传授、保存和应用知识，勇于担当社会责任，服务国家，造福人类。"
+    },
+    {
+      "courseProgress": "进行至第4周，共11周",
+      "courseEvaluationNum": 39,
+      "courseRating": 4.5,
+      "courseLink": "https://www.icourse163.org/course/NEU-1003734012",
+      "studentNumber": 233,
+      "university": "东北大学",
+      "openingTime": "2022年03月01日 ~ 2022年05月10日",
+      "teacher1": "李建华",
+      "hourArrangement": "4-6小时每周",
+      "courseDescription": "数据结构是学习计算机程序设计的核心课程，对学生组织数据、设计程序及分析算法至关重要。本课程讲授数据元素之间存在的各种逻辑关系、采取的存储方式和相应算法，并分析了算法的时间复杂性和空间复杂性。通过本课程的学习，学生将掌握组织数据和存储数据的方法，进而设计出的满足需求的高效算法。",
+      "courseLogo": "http://edu-image.nosdn.127.net/AF0122B36765D9440FA629171C880C37.JPG?imageView&thumbnail=510y288&quality=100",
+      "teacher2": "马贺",
+      "name": "数据结构",
+      "id": "NEU1003734012",
+      "class": "Course"
+    },
+    {
+      "universityLogo": "https://edu-image.nosdn.127.net/ACAB4C1B0610AB9088D6801CC6FC560D.png?imageView&thumbnail=220y80&quality=100",
+      "name": "东北大学",
+      "id": "NEU",
+      "universityMoocLink": "https://www.icourse163.org/university/NEU#/c",
+      "class": "University",
+      "universityIntroduction": "东北大学建于1923年4月，是一所具有爱国主义光荣传统的大学。1949年3月，在东北大学工学院、理学院（部分）的基础上成立了沈阳工学院。1950年8月，沈阳工学院、抚顺矿专和鞍山工专合组为东北工学院。1960年被列为全国64所重点大学之一。是国务院首批批准有权授予学士、硕士和博士学位的大学。1993年3月8日，东北工学院复名为东北大学。1998年9月，东北大学由原冶金部属院校划转为教育部直属高校。学校是国家首批“211工程”和“985工程”重点建设的高校，并实现教育部、辽宁省、沈阳市重点共建。"
+    },
+    {
+      "courseProgress": "进行至第5周，共18周",
+      "courseEvaluationNum": 96,
+      "courseRating": 4.6,
+      "courseLink": "https://www.icourse163.org/course/XMU-1206002801",
+      "studentNumber": 1010,
+      "university": "厦门大学",
+      "openingTime": "2022年02月20日 ~ 2022年06月25日",
+      "teacher1": "郑旭玲",
+      "hourArrangement": "3-6小时每周",
+      "courseDescription": "怎样提升编程实力？如何玩转人工智能、大数据等热门技术？先来搞定数据结构吧。数据结构是计算机学科中最基本的一种内功心法，掌握好计算机求解问题过程中数据的组织和处理方法，才能更好理解千变万化的高阶招式。我们的特色是从生活实例引入，结合实际应用，图文并茂，由浅入深，重实践，轻理论推导。",
+      "courseLogo": "http://edu-image.nosdn.127.net/332407D864AD2D005171BC63BB8DC875.png?imageView&thumbnail=510y288&quality=100",
+      "teacher3": "陈毅东",
+      "teacher2": "曾华琳",
+      "name": "数据结构",
+      "id": "XMU1206002801",
+      "class": "Course"
+    },
+    {
+      "universityLogo": "https://edu-image.nosdn.127.net/75767A5C4DD096C4E18ABAD156621257.png?imageView&thumbnail=220y80&quality=100",
+      "name": "厦门大学",
+      "id": "XMU",
+      "universityMoocLink": "https://www.icourse163.org/university/XMU#/c",
+      "class": "University",
+      "universityIntroduction": "厦门大学由著名爱国华侨领袖陈嘉庚先生于1921年创办，是中国近代教育史上第一所华侨创办的大学，也是国家“211工程”和“985工程”重点建设的高水平大学。 建校以来，学校秉承“自强不息，止于至善”的校训，积累了丰富的办学经验，形成了鲜明的办学特色，成为一所学科门类齐全、师资力量雄厚、居国内一流、在国际上有广泛影响的综合性大学。建校迄今，已先后为国家培养了30万多名本科生和研究生，在厦大学习、工作过的两院院士达60多人。"
+    },
+    {
+      "courseProgress": "当前开课已结束",
+      "courseEvaluationNum": 28,
+      "courseRating": 4.3,
+      "courseLink": "https://www.icourse163.org/course/OUC-70004",
+      "studentNumber": 3774,
+      "university": "中国海洋大学",
+      "openingTime": "2020年02月27日 ~ 2020年06月30日",
+      "teacher1": "魏振钢",
+      "hourArrangement": "3小时每周",
+      "courseDescription": "《数据结构》是计算机学科的核心课程。该课程由中国海洋大学教学名师魏振钢教授担任总策划和主讲。以多年讲授该课程的教学经验积累，山东省省级精品课和教育部-英特尔精品课程建设内容为基础，结合混合式课程教学特点和要求，对课程内容和教学环节进行合理重构，具有较高的学术价值和水平。",
+      "courseLogo": "http://edu-image.nosdn.127.net/929E1981711F9A9CE8955F3BC0935499.png?imageView&thumbnail=426y240&quality=100",
+      "name": "数据结构",
+      "id": "OUC70004",
+      "class": "Course"
+    },
+    {
+      "universityLogo": "https://img-ph-mirror.nosdn.127.net/ETfW5sSb6f568_qnK_KB3A==/6599299576238344531.jpg",
+      "name": "中国海洋大学",
+      "id": "OUC",
+      "universityMoocLink": "https://www.icourse163.org/university/OUC#/c",
+      "class": "University",
+      "universityIntroduction": "中国海洋大学（Ocean University of China）原名青岛海洋大学，位于中国山东省青岛市。始建于1924年，是教育部直属的一所以海洋和水产学科为特色，包括理学、工学、农学、医（药）学、经济学、管理学、文学、法学、教育学、历史学等学科门类较为齐全的教育部直属综合性大学，是国家“985工程”、“211工程”和“卓越工程师教育培养计划”重点建设建设大学之一，是国务院学位委员会首批批准的具有博士、硕士、学士学位授予权的单位。"
+    },
+    {
+      "courseProgress": "进行至第4周，共18周",
+      "guojiajingpin": "国家精品",
+      "courseEvaluationNum": 938,
+      "courseRating": 4.7,
+      "courseLink": "https://www.icourse163.org/course/HUST-1001907004",
+      "studentNumber": 4629,
+      "university": "华中科技大学",
+      "openingTime": "2022年03月01日 ~ 2022年06月30日",
+      "teacher1": "李国徽",
+      "hourArrangement": "3-5小时每周",
+      "courseDescription": "数据结构是编程最重要的基本功！学了顺序表和链表，你就知道，在查询操作更多的程序中，你应该用顺序表；而修改操作更多的程序中，你要使用链表；而单向链表不方便怎么办，每次都从头到尾好麻烦啊，怎么办？你这时就会想到双向链表or循环链表。请小伙伴们加入到数据结构的深入学习中来吧！",
+      "courseLogo": "http://edu-image.nosdn.127.net/3e013be53f4247f29aa2dbeecdb5c2bf.jpg",
+      "teacher3": "祝建华",
+      "teacher2": "袁凌",
+      "name": "数据结构",
+      "id": "HUST1001907004",
+      "class": "Course"
+    },
+    {
+      "universityLogo": "https://edu-image.nosdn.127.net/EEBAB88B673740BECED3559CD1DDFF49.png?imageView&thumbnail=220y80&quality=100",
+      "name": "华中科技大学",
+      "id": "HUST",
+      "universityMoocLink": "https://www.icourse163.org/university/HUST#/c",
+      "class": "University",
+      "universityIntroduction": "华中科技大学是国家教育部直属的全国重点大学，由原华中理工大学、同济医科大学、武汉城市建设学院于2000年5月26日合并成立，是首批列入国家“211工程”重点建设和国家“985工程”建设高校之一。 学校贯彻建设“学生、学者与学术的大学”的教育思想，秉承“育人为本、创新是魂、责任以行”的办学理念，坚持“一流教学、一流本科”的建设目标，采取多种举措，深化教育教学改革，全面推进素质教育，构建和完善充满活力的创新人才培养体系。几十年来，已为国家培养了近40万名高级人才。"
+    },
+    {
+      "courseProgress": "进行至第6周，共22周",
+      "guojiajingpin": "国家精品",
+      "courseEvaluationNum": 155,
+      "courseRating": 4.7,
+      "courseLink": "https://www.icourse163.org/course/UESTC-1002532005",
+      "studentNumber": 6905,
+      "university": "电子科技大学",
+      "openingTime": "2022年02月10日 ~ 2022年07月10日",
+      "teacher1": "林劼",
+      "hourArrangement": "3-5小时每周",
+      "courseDescription": "本课程针对学习程序设计语言之后，需要开发软件而遇到问题不知怎么处理，怎么寻找解决问题的方法，怎么存储数据及关系，以及学习了《数据结构与算法》课程，但是写程序就感觉无从下手的同学。 关于本课程详细特色请见本页最后的常见问题。",
+      "courseLogo": "http://edu-image.nosdn.127.net/9BFE45E8A8C8AA6A5233AA51A91A9EDF.png?imageView&thumbnail=510y288&quality=100",
+      "teacher3": "刘震",
+      "teacher2": "戴波",
+      "name": "数据结构与算法",
+      "id": "UESTC1002532005",
+      "class": "Course"
+    },
+    {
+      "universityLogo": "https://edu-image.nosdn.127.net/DFA796EE289BB519F16C232334E28F29.png?imageView&thumbnail=220y80&quality=100",
+      "name": "电子科技大学",
+      "id": "UESTC",
+      "universityMoocLink": "https://www.icourse163.org/university/UESTC#/c",
+      "class": "University",
+      "universityIntroduction": "电子科技大学（University of Electronic Science and Technology of China）是教育部直属、国家“985工程”“211工程”重点建设大学、国家“双一流”建设高校（A类），坐落于有“天府之国”之称的西部经济、文化、交通中心——四川省成都市，是一所完整覆盖整个电子类学科，以电子信息科学技术为核心，以工为主，理工渗透，理、工、管、文、医协调发展的多科性研究型大学，被誉为“电子类院校排头兵”“民族电子工业摇篮”。"
+    },
+    {
+      "courseProgress": "当前开课已结束",
+      "courseEvaluationNum": 26,
+      "courseRating": 4.6,
+      "courseLink": "https://www.icourse163.org/course/CUC-1206073804",
+      "studentNumber": 982,
+      "university": "中国传媒大学",
+      "openingTime": "2020年09月07日 ~ 2021年02月24日",
+      "teacher1": "周菁",
+      "hourArrangement": "3-4小时每周",
+      "courseDescription": "数据结构是计算机科学中一门综合性的专业基础课，主要介绍如何合理地组织数据、有效地存储和处理数据，正确地设计算法以及对算法进行分析和评价。本课程的学习将帮助学生深入地理解数据的逻辑结构和物理结构的基本概念以及有关算法，培养基本的、良好的程序设计技能，编制高效可靠的程序。",
+      "courseLogo": "http://edu-image.nosdn.127.net/E7FE4D8781B437E5642103AF2C4995AA.jpg?imageView&thumbnail=510y288&quality=100",
+      "name": "数据结构",
+      "id": "CUC1206073804",
+      "class": "Course"
+    },
+    {
+      "universityLogo": "https://edu-image.nosdn.127.net/D586731FD7937B9E682F200573C4F16C.jpg?imageView&thumbnail=220y80&quality=100",
+      "name": "中国传媒大学",
+      "id": "CUC",
+      "universityMoocLink": "https://www.icourse163.org/university/CUC#/c",
+      "class": "University",
+      "universityIntroduction": "中国传媒大学是教育部直属的“一流学科建设高校”，“211工程”重点建设大学，“985优势学科创新平台”重点建设高校，中国传媒大学致力于高层次、复合型创新人才培养。建校60多年来，学校培养了大批信息传播领域高层次人才，为党和国家的传媒事业以及经济社会发展作出了重要贡献，被誉为“中国广播电视及传媒人才摇篮”“信息传播领域知名学府”。作为信息传播研究领域的学术重镇，学校致力于传媒内容和形式创新研究、传媒高新技术研发和为政府企事业单位决策咨询服务，形成了一批重要科研成果。"
+    },
+    {
+      "courseProgress": "进行至第3周，共17周",
+      "courseEvaluationNum": 12,
+      "courseRating": 5.0,
+      "courseLink": "https://www.icourse163.org/course/SUDA-1206148814",
+      "studentNumber": 112,
+      "university": "苏州大学",
+      "openingTime": "2022年03月08日 ~ 2022年06月30日",
+      "teacher1": "孔芳",
+      "hourArrangement": "4-6小时每周",
+      "courseDescription": "大千世界的数据，形形色色；数据之上的加工处理算法，包容万象；而数据表示与算法的完美结合，必将催生出众多应用。《数据结构》课程将带领大家探究数据逻辑层和物理层的表示结构，不同结构之上的算法设计，并能帮助你衡量众多算法，因地制宜的选取、设计数据结构及相应算法。注：本课程不颁发证书。",
+      "courseLogo": "http://edu-image.nosdn.127.net/193BC3FE27B187E05FDA3057E360E9BD.jpg?imageView&thumbnail=510y288&quality=100",
+      "teacher3": "唐自立",
+      "teacher2": "张玉华",
+      "name": "数据结构",
+      "id": "SUDA1206148814",
+      "class": "Course"
+    },
+    {
+      "universityLogo": "https://img-ph-mirror.nosdn.127.net/FnbuqsHcF30qkp4249Xgvg==/2162009296214763890.png",
+      "name": "苏州大学",
+      "id": "SUDA",
+      "universityMoocLink": "https://www.icourse163.org/university/SUDA#/c",
+      "class": "University",
+      "universityIntroduction": "苏州大学坐落于古城苏州，是国家“211工程”重点建设高校、“2011计划”首批认定高校，是江苏省属重点综合性大学，其主要前身为创建于1900年光绪年间的东吴大学。作为全国最早创建的现代高等学府之一，苏州大学曾创造了中国近代高等教育史上的若干个第一：第一家以西式办学体制举办大学、第一家开展研究生教育并最早授予硕士学位、第一家开设法学专业教育、第一家创办大学学报等等。"
+    },
+    {
+      "courseProgress": "当前开课已结束",
+      "courseEvaluationNum": 7,
+      "courseRating": 0.0,
+      "courseLink": "https://www.icourse163.org/course/NJUST-1458375162",
+      "studentNumber": 4475,
+      "university": "南京理工大学",
+      "openingTime": "2020年05月08日 ~ 2020年05月28日",
+      "teacher1": "朱保平",
+      "hourArrangement": "4小时每周",
+      "courseDescription": "本课程的主要作用是在程序设计语言C++学习的基础上，讲解数据结构与算法的基本原理和一般处理过程，常用线性、非线性数据结构的定义和操作，以及数据结构算法的编写、评价和实际程序语言的实现等。通过本课程的教学，使学生了解计算机应用中数据对象的特性，学会中应用中根据现实世界中的问题选择适当的数据逻辑结构和存储结构以及相应算法，掌握一些计算机处理任务中所需要进行的数据抽象化和结构化处理方法，并且培养基本的、良好的程序设计技能。",
+      "courseLogo": "http://edu-image.nosdn.127.net/87A27ABD06EBA5BEA8F9702A14908041.jpg?imageView&thumbnail=510y288&quality=100",
+      "name": "数据结构",
+      "id": "NJUST1458375162",
+      "class": "Course"
+    },
+    {
+      "universityLogo": "https://img-ph-mirror.nosdn.127.net/w1abTer1rOW08a003Dnb3A==/1387390160307583918.jpg",
+      "name": "南京理工大学",
+      "id": "NJUST",
+      "universityMoocLink": "https://www.icourse163.org/university/NJUST#/c",
+      "class": "University",
+      "universityIntroduction": "南京理工大学（Nanjing University of Science and Technology）是中华人民共和国工业和信息化部直属的一所以工为主，理、工、文、经、管、法、教、艺等多学科协调发展的全国重点大学，是国家“211工程”、“985工程优势学科创新平台”重点建设高校之一，是“111计划”、“卓越计划”、“中俄工科大学联盟”入选高校之一，素有“兵器技术人才摇篮”的美誉。"
+    },
+    {
+      "courseProgress": "进行至第2周，共17周",
+      "courseEvaluationNum": 44,
+      "courseRating": 4.8,
+      "courseLink": "https://www.icourse163.org/course/ZZU-1207193805",
+      "studentNumber": 159,
+      "university": "郑州大学",
+      "openingTime": "2022年03月09日 ~ 2022年06月30日",
+      "teacher1": "徐爱琴",
+      "hourArrangement": "2-3小时每周",
+      "courseDescription": "软件设计是计算机科学的核心内容之一，进行软件设计时要考虑的首要问题是数据的表示、组织和处理方法，这直接关系到软件的工程化和软件的运行效率。这也正是数据结构课程研究的主要内容。同时，数据结构是计算机相关专业的专业基础课，数据结构的知识为后续专业课程的学习提供必要的知识和技能准备。",
+      "courseLogo": "http://edu-image.nosdn.127.net/e80b76851b1949cb9e6df36c095b0398.jpg",
+      "name": "数据结构（Java版）",
+      "id": "ZZU1207193805",
+      "class": "Course"
+    },
+    {
+      "universityLogo": "https://edu-image.nosdn.127.net/9E1A3A1799D7190025A41DD2B27530A4.png?imageView&thumbnail=220y80&quality=100",
+      "name": "郑州大学",
+      "id": "ZZU",
+      "universityMoocLink": "https://www.icourse163.org/university/ZZU#/c",
+      "class": "University",
+      "universityIntroduction": "郑州大学是国家“211工程”重点建设高校，由原郑州大学、郑州工业大学和河南医科大学三校合并组建新郑州大学。学校师资雄厚，现拥有院士及知名专家数十人，嵇文甫、霍秉权等专家学者，都曾在此执鞭任教。学生来自全国30个省市自治区、世界60余个国家和地区，植根中原文化，融汇文、理、工、医等12个学科门类、111个本科专业，形成多学科交叉、互补的育人氛围。学校本部共四个校区，总占地面积5700余亩。今天的郑州大学，正着力打造一流学科，争创全国一流大学。"
+    },
+    {
+      "name": "管理学",
+      "class": "Category",
+      "id": "管理学"
+    },
+    {
+      "courseProgress": "当前开课已结束",
+      "courseEvaluationNum": 87,
+      "courseRating": 4.7,
+      "courseLink": "https://www.icourse163.org/course/WHUT-1205969811",
+      "studentNumber": 4795,
+      "university": "武汉理工大学",
+      "openingTime": "2021年08月30日 ~ 2022年01月02日",
+      "teacher1": "胡燕",
+      "hourArrangement": "3-5小时每周",
+      "courseDescription": "你听说过“程序=算法+数据结构”之经典之作吧？本课程介绍基本数据结构以及相关的经典算法，让你能编写出高效程序从而具备解决实际问题的综合能力。我们等着你的加入！",
+      "courseLogo": "http://edu-image.nosdn.127.net/A0AFCF56E7ED6C97907CEFA431A5FB1A.jpg?imageView&thumbnail=510y288&quality=100",
+      "teacher3": "李晓红",
+      "teacher2": "钟忺",
+      "name": "数据结构",
+      "id": "WHUT1205969811",
+      "class": "Course"
+    },
+    {
+      "universityLogo": "https://edu-image.nosdn.127.net/FBAAFEEC0B164300476B4A2B7E1CD716.png?imageView&thumbnail=220y80&quality=100",
+      "name": "武汉理工大学",
+      "id": "WHUT",
+      "universityMoocLink": "https://www.icourse163.org/university/WHUT#/c",
+      "class": "University",
+      "universityIntroduction": "武汉理工大学是由原武汉工业大学、武汉交通科技大学、武汉汽车工业大学于2000年5月27日合并组建而成，是教育部直属的全国重点大学，是首批列入国家“211工程”重点建设的高校。学校进入英国《泰晤士高等教育》2014年亚洲大学前100名排行榜，名列第49位；进入《泰晤士高等教育》2014-2015年度世界大学前400名排行榜，位居351-400位。"
+    },
+    {
+      "courseProgress": "进行至第4周，共19周",
+      "courseEvaluationNum": 85,
+      "courseRating": 3.9,
+      "courseLink": "https://www.icourse163.org/course/HZAU-1002739008",
+      "studentNumber": 518,
+      "university": "华中农业大学",
+      "openingTime": "2022年02月24日 ~ 2022年06月30日",
+      "teacher1": "陈仲民",
+      "hourArrangement": "3月5日",
+      "courseDescription": "计算机科学与技术是信息产业发展的基础，而数据结构又是计算机专业核心课程之首。数据结构是计算机存储、组织数据的方式。我们将要学习数据的逻辑结构、物理结构以及基于上述结构的运算，并学习常用的查找与排序技术。要求同学们能选择最佳的数据结构与算法，从而提高问题的分析与求解能力。",
+      "courseLogo": "http://edu-image.nosdn.127.net/D5DFA5224EFE985D3543198DC4D2E54D.jpg?imageView&thumbnail=510y288&quality=100",
+      "teacher3": "赵良",
+      "teacher2": "周雄辉",
+      "name": "数据结构",
+      "id": "HZAU1002739008",
+      "class": "Course"
+    },
+    {
+      "universityLogo": "https://img-ph-mirror.nosdn.127.net/uh8aMiOFVlCPgKgrMimyDw==/6630927028211652294.png",
+      "name": "华中农业大学",
+      "id": "HZAU",
+      "universityMoocLink": "https://www.icourse163.org/university/HZAU#/c",
+      "class": "University",
+      "universityIntroduction": "华中农业大学（Huazhong Agricultural University）是中华人民共和国教育部直属的一所以生命科学为特色，农、理、工、文、法、经、管协调发展的全国重点大学，是国家“211工程”、“985工程优势学科创新平台”重点建设院校，入选“863计划”、“111计划”、“卓越工程师教育培养计划”、“卓越农林人才教育培养计划”、“海外高层次人才引进计划”，是武汉七校联合办学成员，是国家生命科学与技术、农业现代化建设优秀人才培养的重要基地。"
+    },
+    {
+      "courseProgress": "进行至第2周，共16周",
+      "guojiajingpin": "国家精品",
+      "courseEvaluationNum": 287,
+      "courseRating": 4.6,
+      "courseLink": "https://www.icourse163.org/course/NWU-298002",
+      "studentNumber": 1168,
+      "university": "西北大学",
+      "openingTime": "2022年03月14日 ~ 2022年06月30日",
+      "teacher1": "耿国华",
+      "hourArrangement": "2月3日",
+      "courseDescription": "我们生活在信息时代，作为信息的载体——数据，如何在计算机中被存储、处理？让国家教学名师耿国华教授带您走进《数据结构》课堂，探索数据组织和高效处理算法，为您你成为“数字艺术殿堂设计师”助力。 06年国家精品课程、11年国家精品资源共享课、17年国家精品在线开放课程、20年国家一流课程，十二五国家规划教材资源扫码移动学习，都是您的资源。",
+      "courseLogo": "http://edu-image.nosdn.127.net/a9ae7a163896426393e1d5f3f3096cc4.jpg",
+      "teacher3": "卢燕宁",
+      "teacher2": "刘晓宁",
+      "name": "数据结构",
+      "id": "NWU298002",
+      "class": "Course"
+    },
+    {
+      "universityLogo": "https://img-ph-mirror.nosdn.127.net/bmYkVGCNyJjPdO1ea0cvkA==/6630187056885821875.jpg",
+      "name": "西北大学",
+      "id": "NWU",
+      "universityMoocLink": "https://www.icourse163.org/university/NWU#/c",
+      "class": "University",
+      "universityIntroduction": "西北大学肇始于1902年的陕西大学堂和京师大学堂速成科仕学馆。1912年始称西北大学。1923年改为国立西北大学。1937年西迁来陕的国立北平大学、北平师范大学、北洋工学院和北平研究院等组成国立西安临时大学，1938年改为国立西北联合大学，1939年复称国立西北大学。新中国成立后为教育部直属综合大学。1950年复名西北大学。1958年改隶陕西省主管。1978年被确定为全国重点大学。现为国家“211工程”建设院校、教育部与陕西省共建高校。"
+    },
+    {
+      "courseProgress": "进行至第5周，共21周",
+      "courseEvaluationNum": 119,
+      "courseRating": 4.9,
+      "courseLink": "https://www.icourse163.org/course/NJUPT-1206361803",
+      "studentNumber": 2978,
+      "university": "南京邮电大学",
+      "openingTime": "2022年02月19日 ~ 2022年07月11日",
+      "teacher1": "王海艳",
+      "hourArrangement": "4小时每周",
+      "courseDescription": "“数据结构”是计算机科学的关键，对于构建高效的算法起着决定性的作用。作为程序设计的重要理论基础，它不仅是计算机专业的核心课程，而且在计算机相关应用领域中有着广泛的应用。本课程将数据结构的基本概念和常用算法紧密结合，配以完整的C 语言程序详解，并提供了丰富的测验习题和讨论。",
+      "courseLogo": "http://edu-image.nosdn.127.net/B3B5E6C6D65AB5B0E9335103BF5A306C.jpg?imageView&thumbnail=510y288&quality=100",
+      "teacher3": "朱洁",
+      "teacher2": "肖甫",
+      "name": "数据结构",
+      "id": "NJUPT1206361803",
+      "class": "Course"
+    },
+    {
+      "universityLogo": "https://edu-image.nosdn.127.net/A5D53D6E47AC916E63916C03E3A2C639.png?imageView&thumbnail=220y80&quality=100",
+      "name": "南京邮电大学",
+      "id": "NJUPT",
+      "universityMoocLink": "https://www.icourse163.org/university/NJUPT#/c",
+      "class": "University",
+      "universityIntroduction": "南京邮电大学，坐落于六朝古都南京，是原由工业与信息化部直属，现工业与信息化部、国家邮政局与江苏省人民政府共建的以信息科技为特色，多学科相互交融、多层次教育协调发展的重点大学，是国际电信联盟首个学术成员、是入选首批国家“双一流”世界一流学科建设、首批国家“2011计划”建设、国家“111计划”建设、教育部“卓越工程师教育培养计划”建设、江苏省高水平大学建设的高校。"
+    },
+    {
+      "courseProgress": "当前开课已结束",
+      "courseEvaluationNum": 2,
+      "courseRating": 0.0,
+      "courseLink": "https://www.icourse163.org/course/NJUTCM-1463948161",
+      "studentNumber": 615,
+      "university": "南京中医药大学",
+      "openingTime": "2021年06月25日 ~ 2022年01月31日",
+      "teacher1": "李新霞",
+      "hourArrangement": "2~4小时每周",
+      "courseDescription": "如何用计算机来解决现实生活中的实际问题（比如学籍管理、车辆调度、组织关系管理、医院挂号系统、七巧板涂色问题等等）呢？这些问题里包含了哪些数据？数据之间又有什么样的关系？可以用什么样的逻辑模型表示？又如何去存储呢？要想知道答案，就加入我们，一起来学习《数据结构》吧！",
+      "courseLogo": "http://edu-image.nosdn.127.net/3027C9BAB4ED20B815A28C34B76F58AB.png?imageView&thumbnail=510y288&quality=100",
+      "teacher3": "顾铮",
+      "teacher2": "丁有伟",
+      "name": "数据结构",
+      "id": "NJUTCM1463948161",
+      "class": "Course"
+    },
+    {
+      "universityLogo": "https://edu-image.nosdn.127.net/35469160714E5AE395A537379A618DEA.png?imageView&thumbnail=220y80&quality=100",
+      "name": "南京中医药大学",
+      "id": "NJUTCM",
+      "universityMoocLink": "https://www.icourse163.org/university/NJUTCM#/c",
+      "class": "University",
+      "universityIntroduction": "南京中医药大学始建于1954年，是全国建校最早的中医药高等院校之一，是江苏省重点建设高校，也是江苏省人民政府与国家中医药管理局共建高校。建校60多年来，南京中医药大学为新中国高等中医教育培养输送了第一批师资、主持编写了第一套教材和教学大纲，培养了新中国中医药界最早的学部委员，为新中国中医高等教育模式的确立和推广做出了重要贡献，被誉为“中国高等中医教育的摇篮”。"
+    },
+    {
+      "courseProgress": "进行至第6周，共19周",
+      "guojiajingpin": "国家精品",
+      "courseEvaluationNum": 181,
+      "courseRating": 4.8,
+      "courseLink": "https://www.icourse163.org/course/PAEU-1001660013",
+      "studentNumber": 6533,
+      "university": "中国人民解放军陆军工程大学",
+      "openingTime": "2022年02月10日 ~ 2022年06月20日",
+      "teacher1": "陈卫卫",
+      "hourArrangement": "2-4小时每周",
+      "courseDescription": "如果说C语言只教您基本驾驶（编程）技术，那么数据结构课程则教您漂移、飞跃、侧驶…（编写高质量程序），和挑选、修理、改装、设计汽车。数据结构课程就像杂草丛中的青蒿，庄稼地里的红高粱，说不定因此给您带来“诺贝尔”奖，助您从生（学生）到猿（程序员），从猿到狮（算法大师）。",
+      "courseLogo": "http://edu-image.nosdn.127.net/8A2FD753FE609F6F62064E95F74432E6.jpg?imageView&thumbnail=426y240&quality=100",
+      "teacher3": "唐艳琴",
+      "teacher2": "李清",
+      "name": "数据结构",
+      "id": "PAEU1001660013",
+      "class": "Course"
+    },
+    {
+      "universityLogo": "https://edu-image.nosdn.127.net/C2D549179ADEBA71D0578C451793BB3E.jpg?imageView&thumbnail=220y80&quality=100",
+      "name": "中国人民解放军陆军工程大学",
+      "id": "PAEU",
+      "universityMoocLink": "https://www.icourse163.org/university/PAEU#/c",
+      "class": "University",
+      "universityIntroduction": "2017年7月，由解放军理工大学和军械工程学院为基础组建，是一所人才培养与科学研究并重、工程技术与作战指挥融合的研究型综合性大学。校本部座落于六朝古都江苏南京，另设石家庄校区（石家庄）、通信士官学校（重庆）、军械士官学校（武汉）、训练基地（徐州）。立足陆军，坚持信息主导、以工为主、指技融合，面向战场、面向联合、面向未来，育军事英才、研制胜成果、解部队所需，是陆军人才培养的重要基地、陆军科技创新的攻坚力量、陆军部队建设的关键支撑、陆军对外交流的主要平台。"
+    },
+    {
+      "courseProgress": "进行至第5周，共19周",
+      "courseEvaluationNum": 73,
+      "courseRating": 4.7,
+      "courseLink": "https://www.icourse163.org/course/JXNU-1206663802",
+      "studentNumber": 287,
+      "university": "江西师范大学",
+      "openingTime": "2022年02月18日 ~ 2022年06月25日",
+      "teacher1": "吴福英",
+      "hourArrangement": "3-5小时",
+      "courseDescription": "程序=数据结构+算法，人们逐渐意识到数据是新能源，但是真正推动社会进步的还是算法。算法在无形当中影响着我们生活的方方面面。新闻网站为我们推荐阅读，打车软件帮你选择最佳交通路线，电商网站为你推荐喜欢的商品……。 来吧，让我们一起进入算法与数据结构的课堂，探讨其中的奥秘吧。",
+      "courseLogo": "http://edu-image.nosdn.127.net/8E20DB2FAC367E7D8BA31DE6AA03E52B.jpg?imageView&thumbnail=510y288&quality=100",
+      "teacher3": "章志明",
+      "teacher2": "龚俊",
+      "name": "算法与数据结构",
+      "id": "JXNU1206663802",
+      "class": "Course"
+    },
+    {
+      "universityLogo": "https://edu-image.nosdn.127.net/76c37d0647b44ebfa4b93c4d6b7a8e82.jpg",
+      "name": "江西师范大学",
+      "id": "JXNU",
+      "universityMoocLink": "https://www.icourse163.org/university/JXNU#/c",
+      "class": "University",
+      "universityIntroduction": "江西师范大学是教育部、江西省人民政府共建高校和中西部高校基础能力建设工程高校。学校融文学、历史学、哲学、经济学、管理学、法学、理学、工学、教育学、艺术学等十大学科门类于一体，位于具有深厚历史文化底蕴，素有“物华天宝、人杰地灵”美誉的江西省省会南昌，对江西的政治、经济、文化和社会发展有较大影响，被江西省人民政府确定为优先发展的省属重点（师范）大学。现有瑶湖、青山湖两个校区，占地面积3500余亩，建筑面积140余万平方米，馆藏纸质文献304余万册，电子图书330余万册。"
+    },
+    {
+      "courseProgress": "当前开课已结束",
+      "courseEvaluationNum": 5,
+      "courseRating": 0.0,
+      "courseLink": "https://www.icourse163.org/course/HNLGXY-1206228808",
+      "studentNumber": 680,
+      "university": "湖南理工学院",
+      "openingTime": "2020年09月02日 ~ 2021年01月15日",
+      "teacher1": "吴岳芬",
+      "hourArrangement": "3-5小时每周",
+      "courseDescription": "《数据结构》是程序设计的进阶课程，程序设计的高手之路从“数据结构”开始！ 这里，你可以一窥唐纳德·克努特笔下表、树、图的奥秘！ 这里，你可以沿袭世界算法大师们的思维，领略算法的美妙！ 这里，你可以跟随课程团队，一步步探索应用问题的解决方法！ 这里，是你通往程序设计高手的必经之路！",
+      "courseLogo": "http://edu-image.nosdn.127.net/F2C541C7E7B184F4542121B3F63E06AD.jpg?imageView&thumbnail=510y288&quality=100",
+      "name": "数据结构",
+      "id": "HNLGXY1206228808",
+      "class": "Course"
+    },
+    {
+      "universityLogo": "https://edu-image.nosdn.127.net/66E434530E61B1AA3BA8E9D73BC7ADC3.png?imageView&thumbnail=220y80&quality=100",
+      "name": "湖南理工学院",
+      "id": "HNLGXY",
+      "universityMoocLink": "https://www.icourse163.org/university/HNLGXY#/c",
+      "class": "University",
+      "universityIntroduction": "湖南理工学院（Hunan Institute of Science and Technology），是经国务院学位委员会批准的硕士学位授权单位，是首批国家产教融合发展工程应用型本科高校，被纳入湖南省人民政府“十三五”期间改办大学的设置规划。"
+    },
+    {
+      "courseProgress": "进行至第5周，共16周",
+      "courseEvaluationNum": 62,
+      "courseRating": 4.8,
+      "courseLink": "https://www.icourse163.org/course/GLIET-1205728807",
+      "studentNumber": 268,
+      "university": "桂林电子科技大学",
+      "openingTime": "2022年02月21日 ~ 2022年06月12日",
+      "teacher1": "周娅",
+      "hourArrangement": "4",
+      "courseDescription": "本课程以微课视频的形式进行讲解，希望你利用零碎时间完成视频观看和测试；通过算法演示理解数据结构的基本操作；通过代码实现视频了解实现时的细节；通过每种数据结构的应用视频理解该数据结构的应用场合；通过单元测试进行概念原理算法检验；通过在线判题系统检验你的编码动手能力，希望你有所收获。",
+      "courseLogo": "http://edu-image.nosdn.127.net/0D6D22F00FBD86284D240FC3BD4BE5D2.png?imageView&thumbnail=510y288&quality=100",
+      "teacher3": "王宇英",
+      "teacher2": "张敬伟",
+      "name": "数据结构与算法",
+      "id": "GLIET1205728807",
+      "class": "Course"
+    },
+    {
+      "universityLogo": "https://edu-image.nosdn.127.net/1B0B8F8E780DF22CFB5988095B61DDC1.png?imageView&thumbnail=220y80&quality=100",
+      "name": "桂林电子科技大学",
+      "id": "GLIET",
+      "universityMoocLink": "https://www.icourse163.org/university/GLIET#/c",
+      "class": "University",
+      "universityIntroduction": "桂林电子科技大学座落在广西壮族自治区桂林市，是工业和信息化部与广西壮族自治区共建高校、广西壮族自治区重点建设高校。中国绕月探测工程总设计师、国家最高科学技术奖获得者、中国科学院孙家栋院士为学校名誉校长。 学校始建于1960年，1980年经国务院批准成立桂林电子工业学院，2006年更名为桂林电子科技大学。学校先后隶属于第四机械工业部、电子工业部、机械电子工业部、中国电子工业总公司、信息产业部。2000年管理体制转为中央与地方共建、以地方管理为主。"
+    },
+    {
+      "courseProgress": "进行至第10周，共21周",
+      "courseEvaluationNum": 211,
+      "courseRating": 4.9,
+      "courseLink": "https://www.icourse163.org/course/XAUT-1450846200",
+      "studentNumber": 1371,
+      "university": "西安理工大学",
+      "openingTime": "2022年01月15日 ~ 2022年06月04日",
+      "teacher1": "范翠香",
+      "hourArrangement": "2-4小时每周",
+      "courseDescription": "数据结构是计算机和信息类专业体系中的一门基础课，对培养学生的算法分析与设计能力、程序实现能力、系统设计能力、计算思维能力具有重要的作用。相信通过本课程学习，你一定会有很大收获，我们期待你的加入，让我们一起进入数据结构的学习之旅吧，祝同学们学习愉快！",
+      "courseLogo": "http://edu-image.nosdn.127.net/F3F047A78ED7AEFB17C2AC7AC0AC6A82.jpg?imageView&thumbnail=510y288&quality=100",
+      "teacher3": "李晔",
+      "teacher2": "罗作民",
+      "name": "数据结构",
+      "id": "XAUT1450846200",
+      "class": "Course"
+    },
+    {
+      "universityLogo": "https://edu-image.nosdn.127.net/CECE08AC4401E82D35DF50DAB56474B3.png?imageView&thumbnail=220y80&quality=100",
+      "name": "西安理工大学",
+      "id": "XAUT",
+      "universityMoocLink": "https://www.icourse163.org/university/XAUT#/c",
+      "class": "University",
+      "universityIntroduction": "西安理工大学是陕西省重点建设的高水平大学，是国家中西部高等教育振兴计划——中西部高校基础能力建设工程实施院校，是我国西北地区水利水电、装备制造、印刷包装行业高级专门人才的重要培养基地和科研中心之一。作为全国深化创新创业教育改革示范高校、全国实践育人创新创业基地，先后被评为“全国普通高等学校毕业生就业工作先进集体”“全国毕业生就业典型经验高校”。学校秉承“祖国、荣誉、责任”的校训，坚持“育人为本、知行统一”的办学理念，至今已培养了近二十万名各类专门人才。"
+    },
+    {
+      "courseProgress": "进行至第11周，共29周",
+      "courseEvaluationNum": 498,
+      "courseRating": 4.8,
+      "courseLink": "https://www.icourse163.org/course/XIYOU-1002578005",
+      "studentNumber": 4052,
+      "university": "西安邮电大学",
+      "openingTime": "2022年01月10日 ~ 2022年07月31日",
+      "teacher1": "王曙燕",
+      "hourArrangement": "3-5小时每周",
+      "courseDescription": "“数据结构与算法”是理论和实际紧密结合的计算机类专业核心骨干课程，广泛用于数据存储和信息处理中。课程将系统介绍软件开发中常用的数据结构、存储结构和操作算法；简要介绍算法设计与分析中的设计策略，包括贪心法、分治法等。通过学习，使你能解决实际复杂工程问题，成为程序分析和设计“达人”。",
+      "courseLogo": "http://edu-image.nosdn.127.net/37f771c737a54f67a2fc281c0bd8805e.jpg",
+      "teacher3": "王春梅",
+      "teacher2": "王燕",
+      "name": "数据结构与算法",
+      "id": "XIYOU1002578005",
+      "class": "Course"
+    },
+    {
+      "universityLogo": "https://edu-image.nosdn.127.net/9B044DE307FB89903BE0C55D3103BE9A.png?imageView&thumbnail=220y80&quality=100",
+      "name": "西安邮电大学",
+      "id": "XIYOU",
+      "universityMoocLink": "https://www.icourse163.org/university/XIYOU#/c",
+      "class": "University",
+      "universityIntroduction": "西安邮电大学是由陕西省人民政府与工业和信息化部共建高校，坐落于历史名城西安南郊文化区，是一所以工为主，以信息科学技术为特色，工、管、理、经、文、法、艺多学科协调发展的普通高等学校，是国家在西北地区布局的唯一一所邮电通信类高等学校、教育部“卓越工程师教育培养计划”实施高校、中国人民解放军后备军官选拔培养基地。学校先后荣获陕西省“先进基层党组织”、“先进集体”、 “文明校园”、“平安校园”、“依法治校示范校”、西安市“园林式单位”称号。"
+    },
+    {
+      "courseProgress": "进行至第4周，共20周",
+      "courseEvaluationNum": 72,
+      "courseRating": 4.7,
+      "courseLink": "https://www.icourse163.org/course/QDU-1206599808",
+      "studentNumber": 1319,
+      "university": "青岛大学",
+      "openingTime": "2022年02月28日 ~ 2022年07月17日",
+      "teacher1": "刘遵仁",
+      "hourArrangement": "3-5小时每周",
+      "courseDescription": "经常听同学说：老师，我已经学习了C语言，怎么还不会编写程序啊？我只能告诉你：不会编写程序是太正常的事情了！如果学习完C语言，就能够编写高效率的程序，那么，你就是千年不遇的“天才”！因为：程序=数据结构+算法！ 如果掌握了这门课，就尽情的参加各类“程序设计大赛”吧！我们等待你的加入！",
+      "courseLogo": "http://edu-image.nosdn.127.net/F6CFB216A6A29ADD8A21A94ECE30DD81.jpg?imageView&thumbnail=510y288&quality=100",
+      "teacher3": "隋毅",
+      "teacher2": "张志梅",
+      "name": "数据结构",
+      "id": "QDU1206599808",
+      "class": "Course"
+    },
+    {
+      "universityLogo": "https://edu-image.nosdn.127.net/B64F3D67F0D4890072895977F2458AED-1441765019842?imageView&thumbnail=220y80&quality=100",
+      "name": "青岛大学",
+      "id": "QDU",
+      "universityMoocLink": "https://www.icourse163.org/university/QDU#/c",
+      "class": "University",
+      "universityIntroduction": "青岛大学是山东省属重点综合大学，省市共建高校，建有国家大学生文化素质教育基地、华文教育基地，是教育部“本科教学工程”地方高校第一批本科专业综合改革试点高校、教育部第一批临床医学硕士专业学位研究生培养模式改革试点高校、教育部卓越工程师和卓越医生教育培养计划试点高校、教育部创新创业教育改革示范高校、教育部高校教师考核评价改革示范性高校、教育部来华留学示范基地。 学校设有36个学院和医学部，101个本科专业，涵盖11个学科门类。有13个一级学科博士点，37个一级学科硕士点。"
+    },
+    {
+      "courseProgress": "进行至第28周，共29周",
+      "courseEvaluationNum": 120,
+      "courseRating": 4.9,
+      "courseLink": "https://www.icourse163.org/course/QDU-1206503801",
+      "studentNumber": 2307,
+      "university": "青岛大学",
+      "openingTime": "2021年09月13日 ~ 2022年03月31日",
+      "teacher1": "周强",
+      "hourArrangement": "每周4-6小时",
+      "courseDescription": "数据结构样样扎实，各种算法精彩绝伦！欢迎进入神秘的代码世界，手把手教你编程序！ 本课程用C、C++、Java、Python四种语言授课，修过一门即可修读本课程。在真实开发环境中带领大家解问题、一行一行写代码~   沉浸式体验，让大家看看怎样由一片空白变成满屏代码~",
+      "courseLogo": "http://edu-image.nosdn.127.net/C34C837369C942F2C1AF08A69BFF0A31.png?imageView&thumbnail=510y288&quality=100",
+      "teacher3": "陈宇",
+      "teacher2": "王卓",
+      "name": "数据结构与算法实战",
+      "id": "QDU1206503801",
+      "class": "Course"
+    }
+  ],
+  "links": [
+    {
+      "relation": "开设",
+      "target": "PKU1206307812",
+      "value": "3",
+      "source": "PKU"
+    },
+    {
+      "relation": "属于",
+      "target": "计算机",
+      "value": "3",
+      "source": "PKU1206307812"
+    },
+    {
+      "relation": "开设",
+      "target": "PKU1002534001",
+      "value": "3",
+      "source": "PKU"
+    },
+    {
+      "relation": "属于",
+      "target": "国家精品",
+      "value": "3",
+      "source": "PKU1002534001"
+    },
+    {
+      "relation": "属于",
+      "target": "计算机",
+      "value": "3",
+      "source": "PKU1002534001"
+    },
+    {
+      "relation": "开设",
+      "target": "ZJU93001",
+      "value": "3",
+      "source": "ZJU"
+    },
+    {
+      "relation": "属于",
+      "target": "国家精品",
+      "value": "3",
+      "source": "ZJU93001"
+    },
+    {
+      "relation": "属于",
+      "target": "计算机",
+      "value": "3",
+      "source": "ZJU93001"
+    },
+    {
+      "relation": "开设",
+      "target": "WHU1001539003",
+      "value": "3",
+      "source": "WHU"
+    },
+    {
+      "relation": "属于",
+      "target": "计算机",
+      "value": "3",
+      "source": "WHU1001539003"
+    },
+    {
+      "relation": "开设",
+      "target": "DUT1205981804",
+      "value": "3",
+      "source": "DUT"
+    },
+    {
+      "relation": "属于",
+      "target": "计算机",
+      "value": "3",
+      "source": "DUT1205981804"
+    },
+    {
+      "relation": "开设",
+      "target": "NEU1003734012",
+      "value": "3",
+      "source": "NEU"
+    },
+    {
+      "relation": "属于",
+      "target": "计算机",
+      "value": "3",
+      "source": "NEU1003734012"
+    },
+    {
+      "relation": "开设",
+      "target": "XMU1206002801",
+      "value": "3",
+      "source": "XMU"
+    },
+    {
+      "relation": "属于",
+      "target": "计算机",
+      "value": "3",
+      "source": "XMU1206002801"
+    },
+    {
+      "relation": "开设",
+      "target": "OUC70004",
+      "value": "3",
+      "source": "OUC"
+    },
+    {
+      "relation": "属于",
+      "target": "计算机",
+      "value": "3",
+      "source": "OUC70004"
+    },
+    {
+      "relation": "开设",
+      "target": "HUST1001907004",
+      "value": "3",
+      "source": "HUST"
+    },
+    {
+      "relation": "属于",
+      "target": "国家精品",
+      "value": "3",
+      "source": "HUST1001907004"
+    },
+    {
+      "relation": "属于",
+      "target": "计算机",
+      "value": "3",
+      "source": "HUST1001907004"
+    },
+    {
+      "relation": "开设",
+      "target": "UESTC1002532005",
+      "value": "3",
+      "source": "UESTC"
+    },
+    {
+      "relation": "属于",
+      "target": "国家精品",
+      "value": "3",
+      "source": "UESTC1002532005"
+    },
+    {
+      "relation": "属于",
+      "target": "计算机",
+      "value": "3",
+      "source": "UESTC1002532005"
+    },
+    {
+      "relation": "开设",
+      "target": "CUC1206073804",
+      "value": "3",
+      "source": "CUC"
+    },
+    {
+      "relation": "属于",
+      "target": "计算机",
+      "value": "3",
+      "source": "CUC1206073804"
+    },
+    {
+      "relation": "开设",
+      "target": "SUDA1206148814",
+      "value": "3",
+      "source": "SUDA"
+    },
+    {
+      "relation": "属于",
+      "target": "计算机",
+      "value": "3",
+      "source": "SUDA1206148814"
+    },
+    {
+      "relation": "开设",
+      "target": "NJUST1458375162",
+      "value": "3",
+      "source": "NJUST"
+    },
+    {
+      "relation": "属于",
+      "target": "计算机",
+      "value": "3",
+      "source": "NJUST1458375162"
+    },
+    {
+      "relation": "开设",
+      "target": "ZZU1207193805",
+      "value": "3",
+      "source": "ZZU"
+    },
+    {
+      "relation": "属于",
+      "target": "管理学",
+      "value": "3",
+      "source": "ZZU1207193805"
+    },
+    {
+      "relation": "开设",
+      "target": "WHUT1205969811",
+      "value": "3",
+      "source": "WHUT"
+    },
+    {
+      "relation": "属于",
+      "target": "计算机",
+      "value": "3",
+      "source": "WHUT1205969811"
+    },
+    {
+      "relation": "开设",
+      "target": "HZAU1002739008",
+      "value": "3",
+      "source": "HZAU"
+    },
+    {
+      "relation": "属于",
+      "target": "计算机",
+      "value": "3",
+      "source": "HZAU1002739008"
+    },
+    {
+      "relation": "开设",
+      "target": "NWU298002",
+      "value": "3",
+      "source": "NWU"
+    },
+    {
+      "relation": "属于",
+      "target": "国家精品",
+      "value": "3",
+      "source": "NWU298002"
+    },
+    {
+      "relation": "属于",
+      "target": "计算机",
+      "value": "3",
+      "source": "NWU298002"
+    },
+    {
+      "relation": "开设",
+      "target": "NJUPT1206361803",
+      "value": "3",
+      "source": "NJUPT"
+    },
+    {
+      "relation": "属于",
+      "target": "计算机",
+      "value": "3",
+      "source": "NJUPT1206361803"
+    },
+    {
+      "relation": "开设",
+      "target": "NJUTCM1463948161",
+      "value": "3",
+      "source": "NJUTCM"
+    },
+    {
+      "relation": "属于",
+      "target": "计算机",
+      "value": "3",
+      "source": "NJUTCM1463948161"
+    },
+    {
+      "relation": "开设",
+      "target": "PAEU1001660013",
+      "value": "3",
+      "source": "PAEU"
+    },
+    {
+      "relation": "属于",
+      "target": "国家精品",
+      "value": "3",
+      "source": "PAEU1001660013"
+    },
+    {
+      "relation": "属于",
+      "target": "计算机",
+      "value": "3",
+      "source": "PAEU1001660013"
+    },
+    {
+      "relation": "开设",
+      "target": "JXNU1206663802",
+      "value": "3",
+      "source": "JXNU"
+    },
+    {
+      "relation": "属于",
+      "target": "计算机",
+      "value": "3",
+      "source": "JXNU1206663802"
+    },
+    {
+      "relation": "开设",
+      "target": "HNLGXY1206228808",
+      "value": "3",
+      "source": "HNLGXY"
+    },
+    {
+      "relation": "属于",
+      "target": "计算机",
+      "value": "3",
+      "source": "HNLGXY1206228808"
+    },
+    {
+      "relation": "开设",
+      "target": "GLIET1205728807",
+      "value": "3",
+      "source": "GLIET"
+    },
+    {
+      "relation": "属于",
+      "target": "计算机",
+      "value": "3",
+      "source": "GLIET1205728807"
+    },
+    {
+      "relation": "开设",
+      "target": "XAUT1450846200",
+      "value": "3",
+      "source": "XAUT"
+    },
+    {
+      "relation": "属于",
+      "target": "计算机",
+      "value": "3",
+      "source": "XAUT1450846200"
+    },
+    {
+      "relation": "开设",
+      "target": "XIYOU1002578005",
+      "value": "3",
+      "source": "XIYOU"
+    },
+    {
+      "relation": "属于",
+      "target": "计算机",
+      "value": "3",
+      "source": "XIYOU1002578005"
+    },
+    {
+      "relation": "开设",
+      "target": "QDU1206599808",
+      "value": "3",
+      "source": "QDU"
+    },
+    {
+      "relation": "属于",
+      "target": "计算机",
+      "value": "3",
+      "source": "QDU1206599808"
+    },
+    {
+      "relation": "开设",
+      "target": "QDU1206503801",
+      "value": "3",
+      "source": "QDU"
+    },
+    {
+      "relation": "属于",
+      "target": "计算机",
+      "value": "3",
+      "source": "QDU1206503801"
+    }
+  ]
+}

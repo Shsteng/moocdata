@@ -1,0 +1,20 @@
+[
+  {
+    "courseProgress": "进行至第6周，共22周",
+    "guojiajingpin": "国家精品",
+    "courseEvaluationNum": 155,
+    "courseRating": 4.7,
+    "courseLink": "https://www.icourse163.org/course/UESTC-1002532005",
+    "studentNumber": 6905,
+    "university": "电子科技大学",
+    "openingTime": "2022年02月10日 ~ 2022年07月10日",
+    "teacher1": "林劼",
+    "hourArrangement": "3-5小时每周",
+    "courseDescription": "本课程针对学习程序设计语言之后，需要开发软件而遇到问题不知怎么处理，怎么寻找解决问题的方法，怎么存储数据及关系，以及学习了《数据结构与算法》课程，但是写程序就感觉无从下手的同学。 关于本课程详细特色请见本页最后的常见问题。",
+    "courseLogo": "http://edu-image.nosdn.127.net/9BFE45E8A8C8AA6A5233AA51A91A9EDF.png?imageView&thumbnail=510y288&quality=100",
+    "teacher3": "刘震",
+    "teacher2": "戴波",
+    "name": "数据结构与算法",
+    "id": "UESTC1002532005"
+  }
+]
